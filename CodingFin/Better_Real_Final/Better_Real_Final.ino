@@ -364,7 +364,7 @@ if (brightness <= 0 || brightness >= 150){
     analogWrite(XWHITE2,255);
     analogWrite(XWHITE3,255);
 
-    delay (700);
+    delay (700);e re
   }
  }
 
